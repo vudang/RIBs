@@ -8,7 +8,7 @@ RIBs is the cross-platform architecture behind many mobile apps at Uber. This ar
   s.homepage         = 'https://github.com/vudang/viRIBs'
   s.license          = { :type => 'Apache License, Version 2.0', :file => 'LICENSE.txt' }
   s.author           = { 'uber' => 'mobile-open-source@uber.com' }
-  s.source           = { :git => 'https://github.com/vudang/viRIBs.git', :tag => 'v' + s.version }
+  s.source           = { :git => 'https://github.com/vudang/viRIBs.git', :tag => 'v' + s.version.to_s }
   s.ios.deployment_target = '8.0'
   s.source_files = 'ios/RIBs/Classes/**/*'
   s.dependency 'RxSwift', '~> 5.0.0'
