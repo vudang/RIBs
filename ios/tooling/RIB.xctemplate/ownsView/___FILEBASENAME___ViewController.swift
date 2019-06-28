@@ -1,6 +1,6 @@
 //___FILEHEADER___
 
-import RIBs
+import viRIBs
 import RxSwift
 import UIKit
 

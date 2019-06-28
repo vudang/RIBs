@@ -1,6 +1,6 @@
 //___FILEHEADER___
 
-import RIBs
+import viRIBs
 import RxSwift
 
 protocol ___VARIABLE_productName___Routing: ViewableRouting {
